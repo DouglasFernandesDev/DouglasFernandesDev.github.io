@@ -1,0 +1,25 @@
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+#card {
+    text-align: end;
+}
+
+button {
+    width: 25%;
+    right: -35%;
+    margin: 1.5rem auto;
+    text-align: center;
+    padding: 5px 5px;
+    border: 3px solid rgb(238, 238, 238);
+    border-radius: 6px;
+    background-color: #5c5950;
+    font-size: 18px;
+    margin-bottom: .7rem;
+}
